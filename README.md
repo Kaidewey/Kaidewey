@@ -1,9 +1,9 @@
 <h1>Hi, I'm Matthew! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2></h2>
 
-<h2>📜 Certifications</h2>
- Google Cybersecurity Professional Certificate 
+<h2></h2>
+  
 
 <h2> 🤳 Connect with me:</h2>
 
